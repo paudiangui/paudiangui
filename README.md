@@ -1,7 +1,7 @@
 # Hola, mi nombre es Pau Diaz 👋
 ### Full-stack iOS & Android developer
 
-![https://github.com/mouredev](https://raw.githubusercontent.com/paudiangui/paudiangui/master/paudiangui_github_profile.png)
+![https://github.com/paudiangui](https://raw.githubusercontent.com/paudiangui/paudiangui/master/paudiangui_github_profile.png)
 
 Soy desarrollador de software profesional desde hace un año.
 
